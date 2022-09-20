@@ -57,4 +57,5 @@
 
 ---
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CyrilAmbwaya)](https://github.com/CyrilAmbwaya/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

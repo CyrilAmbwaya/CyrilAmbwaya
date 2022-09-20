@@ -15,13 +15,28 @@
 ### Connect with me:
 
   <img src="https://komarev.com/ghpvc/?username=CyrilAmbwaya" alt="https://github.com/CyrilAmbwaya" />
-
-[![twitter](./img/twitter-light.svg)](https://twitter.com/CyrilAmbwaya#gh-light-mode-only)
-[![twitter](./img/twitter-dark.svg)](https://twitter.com/CyrilAmbwaya#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in//cyril-ambwaya-538468242#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in//cyril-ambwaya-538468242#gh-dark-mode-only)
-&nbsp;&nbsp;
+  
+  <!-- Social button 1 -->
+<!-- Light Mode -->
+<a href="https://twitter.com/intent/follow?screen_name=CyrilAmbwaya#gh-light-mode-only">
+<img src="https://img.shields.io/twitter/follow/CyrilAmbwaya?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
+</a>
+<!-- Dark Mode -->
+<a href="https://twitter.com/intent/follow?screen_name=CyrilAmbwaya#gh-dark-mode-only">
+<img src="https://img.shields.io/twitter/follow/CyrilAmbwaya?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
+</a>
+&nbsp;
+  
+  <!-- Social button 2 -->
+<!-- Light Mode -->
+<a href="https://www.linkedin.com/in/cyril-ambwaya-538468242#gh-light-mode-only">
+<img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
+</a>
+<!-- Dark Mode -->
+<a href="https://www.linkedin.com/in/cyril-ambwaya-538468242#gh-dark-mode-only">
+<img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
+</a>
+  
 
 
 ### Languages and Tools:

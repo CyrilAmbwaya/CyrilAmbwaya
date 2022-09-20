@@ -7,13 +7,13 @@
 <p align="center">
   <samp>A highly resourceful Software engineer and well-rounded IT professional with good problem-solving skills, possessing excellent knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.</samp></p>
   <img align="right" alt="coding" width="300" src="https://github.com/CyrilAmbwaya/CyrilAmbwaya/blob/main/my.gif">
-<ul>
+<ul align="left">
 <li> 🌱 I’m currently learning AL & ML</li>
 <li> 👯 I’m looking to contribute to OpenSource</li>
 <li> 🥅 2022 Goals: Learn more about web3</li>
 <li>😻 Hobbies: I love Teaching, Music and Travelling</li>
 <ul>
-  
+  <br><br><br><br>
   
 
 ### Connect with me:

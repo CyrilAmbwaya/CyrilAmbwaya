@@ -63,9 +63,7 @@
     <img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat">
     <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat">
- <br>
-  <a href="https://wakatime.com/@dcde8047-cfeb-4491-b000-6119607903e5"><img src="https://wakatime.com/badge/user/dcde8047-cfeb-4491-b000-6119607903e5.svg" alt="Total time coded since Sep 20 2022" /></a>
-    
+ 
 ---
 
 [![CyrilAmbwaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyrilAmbwaya&count_private=true&show_icons=true&theme=dark)](https://github.com/CyrilAmbwaya/github-readme-stats)

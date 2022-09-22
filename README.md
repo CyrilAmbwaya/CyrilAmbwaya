@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat">
     <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat">
-    <img src="https://img.shields.io/badge/-Linux-FCC624.vsg?logo=linux&logoColor=white&style=flat")>
+ 
     
 ---
 

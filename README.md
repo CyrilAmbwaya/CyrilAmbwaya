@@ -1,4 +1,4 @@
-### Hey 👋, I'm Cyril 
+### Hey <img src="https://github.com/CyrilAmbwaya/CyrilAmbwaya/blob/main/Wave.gif" width="5%"> I'm Cyril 
 
 [![Github](https://img.shields.io/github/followers/CyrilAmbwaya?label=Follow&style=social)](https://github.com/CyrilAmbwaya)
 

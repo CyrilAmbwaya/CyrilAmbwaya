@@ -1,4 +1,4 @@
-### Hey 👋, I'm Cyril Ambwaya
+### Hey 👋, I'm Cyril 
 
 [![Github](https://img.shields.io/github/followers/CyrilAmbwaya?label=Follow&style=social)](https://github.com/CyrilAmbwaya)
 

@@ -81,9 +81,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 9 mins
+Total Time: 2 hrs 35 mins
 
-HTML   9 mins          █████████████████████████   100.00 %
+HTML   2 hrs 2 mins    ███████████████████▓░░░░░   78.41 %
+JSON   29 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.73 %
+Git    4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 ```
 
 <!--END_SECTION:waka-->

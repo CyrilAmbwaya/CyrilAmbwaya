@@ -16,7 +16,7 @@ jobs:
           TIME_RANGE: all_time
           SHOW_MASKED_TIME: true
           SHOW_TOTAL: true
-          BLOCKS: ░▒▓█
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           
           
           

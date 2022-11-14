@@ -78,7 +78,8 @@
 
 ---
 
-<!--START_SECTION:waka-->
+<!--
+ <!--START_SECTION:waka-->
 
 ```text
 Total Time: 23 hrs 7 mins
@@ -91,4 +92,5 @@ Git        17 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 Markdown   15 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.08 %
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka--> 
+  -->

@@ -10,7 +10,7 @@
 <ul align="left">
 <li> 🌱 I’m currently learning AL & ML</li>
 <li> 👯 I’m looking to contribute to OpenSource</li>
-<li> 🥅 2022 Goals: Learn more about web3</li>
+<li> 🥅 2023 Goals: Learn more about web3</li>
 <li>😻 Hobbies: I love Teaching, Music and Travelling</li>
 <ul>
   <br><br><br><br>

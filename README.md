@@ -78,5 +78,3 @@
 
 ---
 
-<!--
- <!--START_SECTION:waka-->

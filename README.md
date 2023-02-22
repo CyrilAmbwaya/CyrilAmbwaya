@@ -64,17 +64,10 @@
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat">
     <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat">
  
----
-
-[![CyrilAmbwaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyrilAmbwaya&count_private=true&show_icons=true&theme=dark)](https://github.com/CyrilAmbwaya/github-readme-stats)
 
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CyrilAmbwaya&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyrilAmbwaya&langs_count=10)](https://github.com/CyrilAmbwaya/github-readme-stats)
 
 ---
 

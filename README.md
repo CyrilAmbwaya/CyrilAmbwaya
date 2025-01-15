@@ -46,8 +46,7 @@
 
 
 ### Languages and Tools:
- <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
-    <img src="https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat">    
+ <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">    
     <img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat">
     <img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=flat">    
     <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">

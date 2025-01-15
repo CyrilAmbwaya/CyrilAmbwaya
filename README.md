@@ -10,8 +10,8 @@
 <ul align="left">
 <li> 🌱 I’m currently learning Cyrber Security</li>
 <li> 👯 I’m looking to contribute to OpenSource</li>
-<li> 🥅 2024 Goals: Get into bug bounty</li>
-<li>😻 Hobbies: I love Teaching, Music and Travelling</li>
+<li> 🥅 2025 Goals: Get into bug bounty</li>
+<li>😻 Hobbies: I love Reading, Teaching, Music and Travelling</li>
 <ul>
   <br><br><br><br>
   
